@@ -202,6 +202,7 @@ html, body {
   text-decoration: none;
   border-bottom: 1px solid currentColor;
   transition: opacity 0.3s;
+  position: relative;
 }
 
 .place__link:hover {
@@ -289,7 +290,7 @@ html, body {
 }
 
 .footer__link {
-  color: #000;
+  color: white;
   font-size: 16px;
   line-height: 18px;
   text-decoration: none;
